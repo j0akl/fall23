@@ -2,7 +2,7 @@
 
 ## Wednesday
 
-- finish milestone 3 cs4500
+- finish milestone 4 cs4500
 
 ## Thursday
 
@@ -27,7 +27,7 @@
 ## Monday
 
 - ML exam 1
-- work on milestone 4 (time tbd rest of wee
+- work on milestone 5 (time tbd rest of week)
 ## Tuesday
 
 - turnin lab 4, do lab 5
